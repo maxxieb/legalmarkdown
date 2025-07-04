@@ -7,7 +7,7 @@ package main
 
 import (
 	"github.com/codegangsta/cli"
-	"github.com/eris-ltd/legalmarkdown/lmd"
+	"github.com/maxxieb/legalmarkdown/lmd"
 	"log"
 	"os"
 )
